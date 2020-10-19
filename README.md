@@ -2,7 +2,7 @@
 RedgNo: 18pa1a0582-Username: RosiKvb
 
 # ScheduleAMeet
-10/19/2020
+10/19/2020: 
 This is a bot which helps you to schedule a meeting with a person.
 Here, in this code our bot helps our teachers to set a meet with their faculty members like Heads of different departments,
 Senior lecturers,Junior lecturers.
