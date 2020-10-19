@@ -15,6 +15,9 @@ Here, in this code our bot helps our teachers to set a meet with their faculty m
 Senior lecturers,Junior lecturers.
 I simply used functions for different kinds of faculty they want to choose.
 
+# Block Diagram
+![block diagram](https://raw.githubusercontent.com/AwaisGH/ScheduleAMeet/main/Blank%20diagram.png)
+
 # Youtube Video
 [![My Bot video link](https://img.youtube.com/vi/T3BMnxA0HMU/0.jpg)](https://www.youtube.com/watch?v=T3BMnxA0HMU)
 
